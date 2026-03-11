@@ -1,4 +1,4 @@
-# School Management System API
+# Backend/SchoolManagementSystem.API
 
 A RESTful Web API built with **ASP.NET Core** for managing a school system.
 The system allows administrators to manage **students, teachers, courses, and authentication**.
